@@ -1,5 +1,5 @@
 size(400,400);
-background(255);
+background(252,248,219);
 stroke(0);
 fill(0,0,0);
 size(400,400);
